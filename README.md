@@ -18,6 +18,11 @@
 </p>
 
 <p align="center">
+  <a href="https://www.enricofanucchi.com/it/app/revive?utm_source=github&utm_campaign=readme"><img src="https://img.shields.io/badge/sito%20%C2%B7%20website-enricofanucchi.com-F7941D" alt="Revive website"></a>
+  <a href="https://github.com/sponsors/kikoz85"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?logo=githubsponsors&logoColor=white" alt="Sponsor Revive on GitHub"></a>
+</p>
+
+<p align="center">
   <a href="#-italiano">🇮🇹 Italiano</a> &nbsp;·&nbsp; <a href="#-english">🇬🇧 English</a>
 </p>
 
@@ -37,6 +42,7 @@
 - [Aggiornamenti](#aggiornamenti)
 - [Privacy](#privacy)
 - [Domande frequenti](#domande-frequenti)
+- [Sostieni lo sviluppo](#sostieni-lo-sviluppo)
 - [Supporto](#supporto)
 
 ## Ti riconosci?
@@ -163,6 +169,10 @@ Italiano, inglese, francese, tedesco e spagnolo. Revive usa automaticamente la l
 **Revive mi ha trovato "Tutto in ordine" ma il Mac è ancora lento.**
 Allora il rallentamento probabilmente non dipende dalla migrazione. Revive fa una cosa sola, in modo mirato.
 
+## Sostieni lo sviluppo
+
+Revive è gratuito. Se ti ha restituito un Mac veloce e vuoi ricambiare, puoi sostenerne lo sviluppo con **[GitHub Sponsors](https://github.com/sponsors/kikoz85)** (il pulsante **Sponsor** è anche in cima a questa pagina) oppure dalla pagina [Sostienimi](https://www.enricofanucchi.com/it/sostienimi?utm_source=github&utm_campaign=revive) del sito. Le donazioni pagano il certificato di firma Apple, così macOS smette di chiedere conferma al primo avvio, e il tempo per le prossime versioni. Anche una ⭐ al repository aiuta.
+
 ## Supporto
 
 Hai trovato un problema o hai un suggerimento? Apri una segnalazione nella sezione [Issues](https://github.com/kikoz85/revive/issues) indicando la versione di macOS, il modello di Mac e cosa è successo.
@@ -183,6 +193,7 @@ Hai trovato un problema o hai un suggerimento? Apri una segnalazione nella sezio
 - [Updates](#updates)
 - [Privacy](#privacy-1)
 - [FAQ](#faq)
+- [Support development](#support-development)
 - [Support](#support)
 
 ## Sound familiar?
@@ -308,6 +319,10 @@ Italian, English, French, German and Spanish. Revive automatically uses your Mac
 
 **Revive says "All good" but my Mac is still slow.**
 Then the slowdown probably isn't caused by the migration. Revive does one thing, precisely.
+
+## Support development
+
+Revive is free. If it gave you back a fast Mac and you'd like to return the favor, you can support its development with **[GitHub Sponsors](https://github.com/sponsors/kikoz85)** (the **Sponsor** button is also at the top of this page) or from the [Support](https://www.enricofanucchi.com/en/support?utm_source=github&utm_campaign=revive) page of the website. Donations pay for Apple's code-signing certificate, so macOS stops asking for confirmation on first launch, and for the time to build the next versions. A ⭐ on the repository helps too.
 
 ## Support
 
