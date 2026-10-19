@@ -82,6 +82,10 @@ Revive è un'app per Mac semplice, pensata anche per chi non è esperto di compu
 |---|---|
 | ![Guida](images/it/09-guide.png) | ![Impostazioni](images/it/11-settings-updates.png) |
 
+| Informazioni | Sostieni Revive |
+|---|---|
+| ![Informazioni](images/it/07-about.png) | ![Sostieni Revive](images/it/12-guide-sponsor.png) |
+
 ## Cosa ripara
 
 | Problema | In parole semplici | Beneficio |
@@ -173,6 +177,8 @@ Allora il rallentamento probabilmente non dipende dalla migrazione. Revive fa un
 
 Revive è gratuito. Se ti ha restituito un Mac veloce e vuoi ricambiare, puoi sostenerne lo sviluppo con **[GitHub Sponsors](https://github.com/sponsors/kikoz85)** (il pulsante **Sponsor** è anche in cima a questa pagina) oppure dalla pagina [Sostienimi](https://www.enricofanucchi.com/it/sostienimi?utm_source=github&utm_campaign=revive) del sito. Le donazioni pagano il certificato di firma Apple, così macOS smette di chiedere conferma al primo avvio, e il tempo per le prossime versioni. Anche una ⭐ al repository aiuta.
 
+Dalla versione 1.1.0 trovi il pulsante **Sostieni Revive** anche dentro l'app, nella finestra *Informazioni* e nell'ultima sezione della *Guida*.
+
 ## Supporto
 
 Hai trovato un problema o hai un suggerimento? Apri una segnalazione nella sezione [Issues](https://github.com/kikoz85/revive/issues) indicando la versione di macOS, il modello di Mac e cosa è successo.
@@ -232,6 +238,10 @@ Revive is a simple Mac app, built for people who aren't computer experts too. It
 | Built-in guide | Settings |
 |---|---|
 | ![Guide](images/en/09-guide.png) | ![Settings](images/en/11-settings-updates.png) |
+
+| About | Support Revive |
+|---|---|
+| ![About](images/en/07-about.png) | ![Support Revive](images/en/12-guide-sponsor.png) |
 
 ## What it repairs
 
@@ -323,6 +333,8 @@ Then the slowdown probably isn't caused by the migration. Revive does one thing,
 ## Support development
 
 Revive is free. If it gave you back a fast Mac and you'd like to return the favor, you can support its development with **[GitHub Sponsors](https://github.com/sponsors/kikoz85)** (the **Sponsor** button is also at the top of this page) or from the [Support](https://www.enricofanucchi.com/en/support?utm_source=github&utm_campaign=revive) page of the website. Donations pay for Apple's code-signing certificate, so macOS stops asking for confirmation on first launch, and for the time to build the next versions. A ⭐ on the repository helps too.
+
+Since version 1.1.0 the **Support Revive** button is also inside the app, in the *About* window and in the last section of the *Guide*.
 
 ## Support
 
