@@ -109,15 +109,9 @@ Revive è un'app per Mac semplice, pensata anche per chi non è esperto di compu
 2. Apri il file scaricato e **trascina Revive nella cartella Applicazioni**.
 3. Apri Revive dalla cartella **Applicazioni** (non dalla finestra del DMG).
 
-### Se macOS blocca l'apertura
+Revive è **firmato con certificato Apple Developer ID e notarizzato da Apple**: macOS lo verifica e lo apre senza avvisi, come qualsiasi app scaricata da uno sviluppatore identificato. Al primo avvio può comparire solo la normale conferma *"Revive è un'app scaricata da Internet. Vuoi aprirla?"*: premi **Apri**.
 
-Revive non è ancora distribuito tramite l'App Store, quindi al primo avvio macOS può mostrare un avviso del tipo *"Impossibile verificare che Revive sia privo di malware"*. Per aprirlo:
-
-1. Chiudi l'avviso con **Fine**.
-2. Apri **Impostazioni di Sistema › Privacy e sicurezza**.
-3. Scorri fino alla sezione **Sicurezza**: vedrai *"Revive è stato bloccato…"*. Clicca **Apri comunque** e conferma con la tua password.
-
-Serve solo la prima volta. Gli aggiornamenti successivi, installati da Revive stesso, non richiedono questo passaggio.
+> Hai la versione 1.0 o 1.1? Erano distribuite senza firma Apple e al primo avvio richiedevano *Apri comunque* in *Privacy e sicurezza*. Dalla 1.2 non serve più, e se hai già Revive ricevi l'aggiornamento automaticamente.
 
 ## Primo avvio: due permessi
 
@@ -175,7 +169,7 @@ Allora il rallentamento probabilmente non dipende dalla migrazione. Revive fa un
 
 ## Sostieni lo sviluppo
 
-Revive è gratuito. Se ti ha restituito un Mac veloce e vuoi ricambiare, puoi sostenerne lo sviluppo con **[GitHub Sponsors](https://github.com/sponsors/kikoz85)** (il pulsante **Sponsor** è anche in cima a questa pagina) oppure dalla pagina [Sostienimi](https://www.enricofanucchi.com/it/sostienimi?utm_source=github&utm_campaign=revive) del sito. Le donazioni pagano il certificato di firma Apple, così macOS smette di chiedere conferma al primo avvio, e il tempo per le prossime versioni. Anche una ⭐ al repository aiuta.
+Revive è gratuito. Se ti ha restituito un Mac veloce e vuoi ricambiare, puoi sostenerne lo sviluppo con **[GitHub Sponsors](https://github.com/sponsors/kikoz85)** (il pulsante **Sponsor** è anche in cima a questa pagina) oppure dalla pagina [Sostienimi](https://www.enricofanucchi.com/it/sostienimi?utm_source=github&utm_campaign=revive) del sito. Le donazioni coprono il certificato di firma Apple, grazie al quale Revive si apre senza avvisi, e il tempo per le prossime versioni. Anche una ⭐ al repository aiuta.
 
 Dalla versione 1.1.0 trovi il pulsante **Sostieni Revive** anche dentro l'app, nella finestra *Informazioni* e nell'ultima sezione della *Guida*.
 
@@ -266,15 +260,9 @@ Revive is a simple Mac app, built for people who aren't computer experts too. It
 2. Open the downloaded file and **drag Revive to the Applications folder**.
 3. Open Revive from the **Applications** folder (not from the DMG window).
 
-### If macOS blocks it
+Revive is **signed with an Apple Developer ID certificate and notarized by Apple**: macOS verifies it and opens it with no warnings, like any app from an identified developer. On first launch you may only see the usual *"Revive is an app downloaded from the Internet. Are you sure you want to open it?"*: click **Open**.
 
-Revive isn't distributed through the App Store yet, so on first launch macOS may show a warning like *"Apple could not verify Revive is free of malware"*. To open it:
-
-1. Close the warning with **Done**.
-2. Open **System Settings › Privacy & Security**.
-3. Scroll to the **Security** section: you'll see *"Revive was blocked…"*. Click **Open Anyway** and confirm with your password.
-
-This is needed only once. Later updates, installed by Revive itself, skip this step.
+> Using version 1.0 or 1.1? Those were distributed without Apple's signature and needed *Open Anyway* in *Privacy & Security* on first launch. Since 1.2 that's no longer needed, and if you already have Revive you get the update automatically.
 
 ## First launch: two permissions
 
@@ -332,7 +320,7 @@ Then the slowdown probably isn't caused by the migration. Revive does one thing,
 
 ## Support development
 
-Revive is free. If it gave you back a fast Mac and you'd like to return the favor, you can support its development with **[GitHub Sponsors](https://github.com/sponsors/kikoz85)** (the **Sponsor** button is also at the top of this page) or from the [Support](https://www.enricofanucchi.com/en/support?utm_source=github&utm_campaign=revive) page of the website. Donations pay for Apple's code-signing certificate, so macOS stops asking for confirmation on first launch, and for the time to build the next versions. A ⭐ on the repository helps too.
+Revive is free. If it gave you back a fast Mac and you'd like to return the favor, you can support its development with **[GitHub Sponsors](https://github.com/sponsors/kikoz85)** (the **Sponsor** button is also at the top of this page) or from the [Support](https://www.enricofanucchi.com/en/support?utm_source=github&utm_campaign=revive) page of the website. Donations cover Apple's code-signing certificate, which lets Revive open with no warnings, and the time to build the next versions. A ⭐ on the repository helps too.
 
 Since version 1.1.0 the **Support Revive** button is also inside the app, in the *About* window and in the last section of the *Guide*.
 
