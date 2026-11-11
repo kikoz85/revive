@@ -91,6 +91,7 @@ Revive è un'app per Mac semplice, pensata anche per chi non è esperto di compu
 | Problema | In parole semplici | Beneficio |
 |---|---|---|
 | **Permessi privacy orfani** | Permessi (fotocamera, microfono, cartelle…) concessi ad app che sul nuovo Mac non ci sono più. Rallentano il pannello *Privacy e sicurezza*. | 🔴 Alto |
+| **Archivio Contatti appesantito** | La copia sul Mac dei contatti di un account (per esempio Google) ha accumulato migliaia di dati tecnici inutili: i servizi di macOS che la leggono si bloccano e il pannello *Privacy e sicurezza* impiega molti secondi ad aprirsi. Revive la ricostruisce e i contatti vengono riscaricati dal server, senza perderne nessuno. | 🔴 Alto |
 | **Avvii automatici rotti** | Programmi che dovrebbero partire da soli ma sono vuoti o puntano a file inesistenti. | 🔴 Alto |
 | **Impostazioni del vecchio Mac** | Preferenze legate all'hardware dell'altro computer: qui sono inutili e possono creare conflitti. | 🟠 Medio |
 | **Portachiavi del vecchio Mac** | Una parte del portachiavi legata all'altro computer, che questo Mac non può usare. | 🟠 Medio |
@@ -242,6 +243,7 @@ Revive is a simple Mac app, built for people who aren't computer experts too. It
 | Problem | In plain words | Benefit |
 |---|---|---|
 | **Orphaned privacy permissions** | Permissions (camera, microphone, folders…) granted to apps that aren't on the new Mac anymore. They slow down the *Privacy & Security* panel. | 🔴 High |
+| **Bloated Contacts store** | The Mac's copy of an account's contacts (e.g. Google) has piled up thousands of useless technical records: the macOS services reading it get stuck and *Privacy & Security* takes many seconds to open. Revive rebuilds it and the contacts are downloaded again from the server, none lost. | 🔴 High |
 | **Broken startup items** | Programs meant to start on their own that are empty or point to files that don't exist. | 🔴 High |
 | **Settings from your old Mac** | Preferences tied to the other computer's hardware: useless here and a possible source of conflicts. | 🟠 Medium |
 | **Old Mac's keychain** | Part of the keychain tied to the other computer, which this Mac can't use. | 🟠 Medium |
