@@ -96,6 +96,7 @@ Revive è un'app per Mac semplice, pensata anche per chi non è esperto di compu
 | **Impostazioni del vecchio Mac** | Preferenze legate all'hardware dell'altro computer: qui sono inutili e possono creare conflitti. | 🟠 Medio |
 | **Portachiavi del vecchio Mac** | Una parte del portachiavi legata all'altro computer, che questo Mac non può usare. | 🟠 Medio |
 | **File di un altro utente** | File nella tua cartella che appartengono a un altro account, tipico delle migrazioni. | 🟠 Medio |
+| **Servizi chiusi per memoria** *(solo segnalazione)* | Servizi di macOS che il sistema chiude di continuo perché usano troppa memoria. Spesso è il segnale di dati appesantiti: se riguardano i Contatti, la riparazione dell'Archivio Contatti li risolve. Revive te li mostra, senza modificarli. | 🟠 Medio |
 | **Preferenze danneggiate** | File di impostazioni illeggibili che le app provano ad aprire senza riuscirci. | 🟡 Basso |
 
 ## Cosa *non* fa
@@ -248,6 +249,7 @@ Revive is a simple Mac app, built for people who aren't computer experts too. It
 | **Settings from your old Mac** | Preferences tied to the other computer's hardware: useless here and a possible source of conflicts. | 🟠 Medium |
 | **Old Mac's keychain** | Part of the keychain tied to the other computer, which this Mac can't use. | 🟠 Medium |
 | **Files owned by another user** | Files in your folder that belong to another account, typical after a migration. | 🟠 Medium |
+| **Services killed for memory** *(report only)* | macOS services the system keeps closing because they use too much memory. Often a sign of bloated data: if they relate to Contacts, repairing the Contacts store fixes them. Revive shows them to you without changing them. | 🟠 Medium |
 | **Damaged preferences** | Unreadable settings files that apps keep trying to open. | 🟡 Low |
 
 ## What it does *not* do
